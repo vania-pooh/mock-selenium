@@ -1,0 +1,1 @@
+{ "request": { "urlPattern": "/wd/hub/session/.*", "method": "DELETE" }, "response": { "status": 200, "headers": {"Content-Type": "application/json"} }}

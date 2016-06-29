@@ -1,0 +1,1 @@
+{ "request": { "url": "/wd/hub/session", "method": "POST" }, "response": { "status": 200, "bodyFileName": "/create.json", "headers": {"Content-Type": "application/json"} }}
